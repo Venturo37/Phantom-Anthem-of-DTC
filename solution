@@ -1,0 +1,12 @@
+Writing Down Morse code after observation and listening: 
+Section 1:  .-.. ..- -.-- -.- -...
+Section 2:   -... ..-. --.. . .--- -. .... .--. -.- . -..- --. -. - --- - ....
+Section 3:   .. ..- -.-- -.-. --- 
+
+Writing down cipher text after translating morse code: 
+Section 1:  LUYKB 
+Section 2:  BFZEJNHPKEXGNTOTH 
+Section 3:  IUYCO 
+
+Writing down the decoded cipher text using Vigenere cipher, key=TUNKU :
+SALAH ILMUPUNCAKEMAJUAN VKEJU
